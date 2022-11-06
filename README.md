@@ -32,7 +32,6 @@
  </br>
 </br>
  
-  ![Snake animation](https://github.com/3hvarts/3hvarts/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
